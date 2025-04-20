@@ -34,12 +34,12 @@
 #define WIFI_BLINK_INTERVAL   500   // WiFi connecting blink interval
 
 // WiFi credentials
-#define WIFI_SSID "Makerbrains"
-#define WIFI_PASSWORD "Balaji2830"
+#define WIFI_SSID "Your_SSID"
+#define WIFI_PASS "Your_PASSWORD"
 
 // Firebase configuration
-#define FIREBASE_HOST "datalogger-18117-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "Ks8dlKk0CYpHoQ3As49BnLqjEp0bF9caOXeRUyXS"
+#define FIREBASE_HOST "https://your-project.firebaseio.com/"
+#define FIREBASE_SECRET "your_firebase_secret"
 
 static const char *TAG = "FIREBASE_ESP32";
 
