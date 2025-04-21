@@ -35,11 +35,11 @@
 
 // WiFi credentials
 #define WIFI_SSID "Your_SSID"
-#define WIFI_PASS "Your_PASSWORD"
+#define WIFI_PASSWORD "Your_PASSWORD"
 
 // Firebase configuration
-#define FIREBASE_HOST "https://your-project.firebaseio.com/"
-#define FIREBASE_SECRET "your_firebase_secret"
+#define FIREBASE_HOST "your-database.firebaseio.com"
+#define FIREBASE_AUTH "your_database_secret"
 
 static const char *TAG = "FIREBASE_ESP32";
 
