@@ -38,8 +38,10 @@
 #define WIFI_PASSWORD "Your_PASSWORD"
 
 // Firebase configuration
-#define FIREBASE_HOST "datalogger-******-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "Ks8dl*************************aOXe*****S"
+// #define FIREBASE_HOST "datalogger-******-default-rtdb.asia-southeast1.firebasedatabase.app"
+// #define FIREBASE_AUTH "Ks8dl*************************aOXe*****S"
+#define FIREBASE_HOST "retro-logger-dfd48-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_AUTH "PpAT8cAL1PDF49TtToiAcZLS5oHT03pzQHD7AaAx"
 
 static const char *TAG = "FIREBASE_ESP32";
 
