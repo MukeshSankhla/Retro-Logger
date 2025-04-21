@@ -38,8 +38,8 @@
 #define WIFI_PASSWORD "Your_PASSWORD"
 
 // Firebase configuration
-#define FIREBASE_HOST "your-database.firebaseio.com"
-#define FIREBASE_AUTH "your_database_secret"
+#define FIREBASE_HOST "datalogger-******-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_AUTH "Ks8dl*************************aOXe*****S"
 
 static const char *TAG = "FIREBASE_ESP32";
 
