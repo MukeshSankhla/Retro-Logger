@@ -1,7 +1,5 @@
 # Retro-Logger
 
-**Breathe new life into legacy machines.**
-
 In today's hyper-connected world, nearly every device—from your phone to your fridge—is online. But long before the rise of the Internet of Things, the industrial world had already embraced digital communication through protocols like **RS-232 (1960s)** and **Modbus (1979)**. These standards formed the foundation of modern industrial automation and still power countless machines around the globe.
 
 ## 🏭 The Reality of Legacy Equipment
@@ -37,16 +35,6 @@ All enclosed in a 3D-printed, tamper-resistant case.
 
 ---
 
-## 🚀 What Does It Do?
-
-- Captures real-time serial data from legacy machines  
-- Parses the data as JSON  
-- Uploads it securely to **Google Firebase Realtime Database**  
-- Supports OTA firmware upgrades with secure boot enabled  
-- Tamper-proof by design for use in industrial environments
-
----
-
 ## 🧪 Demo Scenario
 
 We simulate a real-world production line using an **Arduino Uno** that:
@@ -78,11 +66,6 @@ Whether you're retrofitting a 30-year-old lathe or a vintage PLC, Retro-Logger i
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## 🛠️ Get Started
 
 1. Flash the ESP32 with firmware from `/data-logger`
@@ -110,7 +93,3 @@ Whether you're retrofitting a 30-year-old lathe or a vintage PLC, Retro-Logger i
 
 This project is open source under the MIT License.  
 Feel free to fork, contribute, and build upon it.
-
----
-
-Let’s make legacy machines smart—**the low-cost, secure way**.
